@@ -1,8 +1,10 @@
+import Table from "../components/Table/Table";
+
 function SecondPage() {
     return (
-        <div>
-            <h1>Second Page</h1>
-        </div>
+        <>
+            <Table />
+        </>
     );
 }
 
